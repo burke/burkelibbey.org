@@ -3,6 +3,6 @@ body {
 }
 
 .hero-unit {
-  background: url(file:///Users/burke/Desktop/burke.png) top left no-repeat whitesmoke;
+  background: url(/img/burke.png) top left no-repeat whitesmoke;
   padding-left: 220px;
 }
